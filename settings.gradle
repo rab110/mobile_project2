@@ -1,0 +1,2 @@
+include ':app', ':timetableview'
+rootProject.name = "project"

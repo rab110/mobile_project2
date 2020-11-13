@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="default_header_title">
+        <item></item>
+        <item>الاحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الاربعاء</item>
+        <item>الخميس</item>
+    </string-array>
+</resources>
